@@ -1,5 +1,5 @@
 # camapp
-Application used to take photos and watch a gallery
+Application used to take photos and watch a gallery in React Native (Expo)
 
 This app allows to:
 - see photos in a gallery
